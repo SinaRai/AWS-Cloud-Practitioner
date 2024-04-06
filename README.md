@@ -36,23 +36,26 @@ AWS Certified Cloud Practitioner is a good starting point for individuals embark
 <br>
 
 <style>
-  .no-numbering li{
-    counter-increment: none;
+  .no-bullets{
+    list-style:none;
+  }
+  .no-numbering li {
+    list-style-typen: none;
   }
 </style>
 
 <h2><strong> Domain 1: Cloud Concepts </srong></h2>
-<ol class = "no-numbering"> 
-  <li>1.1 Define Benefits of the AWS Cloud</li>
-  <li>1.2 Identify Design Principles</li>
-  <li>1.3 Migration Benefits and Strategies</li>
-   <li>1.4 Cloud Economics Concepts</li>
+<ol class = "no-bullets no-numbering"> 
+  <li>1.1 &nbsp;&nbsp; Define Benefits of the AWS Cloud</li>
+  <li>1.2 &nbsp;&nbsp; Identify Design Principles</li>
+  <li>1.3 &nbsp;&nbsp; Migration Benefits and Strategies</li>
+   <li>1.4 &nbsp;&nbsp; Cloud Economics Concepts</li>
 </ol>
 <br>
 
 <h2><strong> Domain 2: Security and Compliance </srong></h2>
-<ol class = "no-numbering">
-  <li>2.1 Understand the AWS Shared Responsibility model. </li>
+<ol class = "no-bullets no-numbering">
+  <li>2.1 &nbsp;&nbsp; Understand the AWS Shared Responsibility model. </li>
   <li>2.2 &nbsp;&nbsp; Understand AWS Cloud Security, Governance, and Complince Concepts.</li>
   <li>2.3 &nbsp;&nbsp; Identify AWS Access Management Capabilities.</li>
   <li>2.4 &nbsp;&nbsp; Identify Components and Resources for Security</li>
@@ -62,7 +65,7 @@ AWS Certified Cloud Practitioner is a good starting point for individuals embark
 
 <h2><strong> Domain 3: Cloud Technology and Services</srong></h2>
 
-<ol class = "no-numbering">
+<ol class = "no-bullets no-numbering">
   <li>3.1 &nbsp;&nbsp; Define methods of deploying and operating in the AWS Cloud.</li>
   <li>3.2 &nbsp;&nbsp; Define the AWS global infrastructure. </li>
   <li>3.3 &nbsp;&nbsp; Identify AWS compute services.</li>
@@ -77,8 +80,16 @@ services and analytics services. </li>
 <br>
  <h2><strong> Domain 4: Billing, Pricing, and Support </srong></h2>
 
- <ol class = "no-numbering">
+ <ol class = "no-bullets no-numbering">
     <li>4.1 &nbsp;&nbsp; Compare AWS pricing models.</li>
     <li>4.2 &nbsp;&nbsp; : Understand resources for billing, budget, and cost management.</li>
     <li>4.3 &nbsp;&nbsp;  Identify AWS technical resources and AWS Support options.</li>
 </ol>
+
+<h3 style="color: blue;"><bold> EXAM READINESS RESOURCES </bold> </h3>
+  <ul>
+     <li><a href="https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf"> Exam Guide </a></li>
+     <li><a href="https://explore.skillbuilder.aws/learn/course/external/view/elearning/14050/aws-certified-cloud-practitioner-official-practice-question-set-clf-c02-english"> Official Practise Question </a></li>
+     <li><a href= "https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials">Cloud Essential </a></li>
+     <li?><a href= "https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner"> Cloud Quest </a> </li>
+  </ul>
