@@ -36,11 +36,11 @@ AWS Certified Cloud Practitioner is a good starting point for individuals embark
 <br>
 
 <h2><strong> Domain 1: Cloud Concepts </srong></h2>
-<ol?> 
-  <li>1.1&nbsp;&nbsp;Define Benefits of the AWS Cloud</li>
-  <li>1.2&nbsp;&nbsp;Identify Design Principles</li>
-  <li>1.3&nbsp;&nbsp;Migration Benefits and Strategies</li>
-   <li>1.4&nbsp;&nbsp;Cloud Economics Concepts</li>
+<ol class = "no-bullets"> 
+  <li>1.1 Define Benefits of the AWS Cloud</li>
+  <li>1.2 Identify Design Principles</li>
+  <li>1.3 Migration Benefits and Strategies</li>
+   <li>1.4 Cloud Economics Concepts</li>
 </ol>
 <br>
 
