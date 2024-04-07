@@ -3,11 +3,10 @@
 
 <h4> What is cloud computing? </h4>
 <br>
-<p align= " center">
- <img src= "Assets/Cloud Computing.png" alt= " cloud computing">
+<p align="center">
+ <img src= "Assets/Cloud Computing.png" alt= "Cloud computing">
 </p>
 <br>
 
 <h4> Cloud Computing Defined : </h4>
-<br>
-<p> Cloud Computing is the on-demand delivery of compute power, databse, storage, applications, and other IT resources via the internet with pay-as-you-go pricing.</p>
+<p> Cloud Computing is the on-demand delivery of compute power, databse, storage, applications, and other IT resources via the internet with   pay-as-you-go pricing.</p>
