@@ -35,12 +35,6 @@ AWS Certified Cloud Practitioner is a good starting point for individuals embark
 </ul>
 <br>
 
-<style>
-    .no-list{
-      list-style: none;
-    }
-</style>
-
 <h2><strong> Domain 1: Cloud Concepts </srong></h2>
 <ul class = "no-list"> 
   <li>1.1 &nbsp;&nbsp; Define Benefits of the AWS Cloud</li>
