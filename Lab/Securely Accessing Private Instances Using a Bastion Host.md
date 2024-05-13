@@ -9,7 +9,7 @@
 <br>
 <h2><strong> Solution Architecture <strong></h2>
 <p align="center">
-    <img src="Accessing_PrivateInstances.jpg" alt="Solution Architecture"> 
+    <img src="Assets/Architecture.jpg" alt="Solution Architecture">
 </p>
 <br>
 <p>The diagram illustrates the configuration of a bastion host within your AWS VPC cloud environment. 
