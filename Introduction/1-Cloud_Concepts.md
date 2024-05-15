@@ -4,7 +4,7 @@
 <h4> What is cloud computing? </h4>
 <br>
 <p align="center">
- <img src= "Assets/Cloud.jpg" alt="Cloud computing">
+ <img src= "Introduction/Image/Cloud.jpg" alt="Cloud computing">
 </p>
 <br>
 <h4> Cloud Computing Defined : </h4>
