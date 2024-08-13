@@ -11,7 +11,7 @@ The bastion host acts as a secure gateway, enabling users to securely connect to
 ## **Solution Architecture**
 
 <p align="center">
-    <img src="Lab/Images/Architecture.jpg" alt="Solution Architecture">
+    <img src="Lab/Images/Architecture.jpg">
 </p>
 
 The diagram illustrates the configuration of a bastion host within your AWS VPC cloud environment.
